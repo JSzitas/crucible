@@ -1,0 +1,27 @@
+{
+    "id": "653D2015",
+    "path": "~/Desktop/crucible/experiments/suitors_acceptors.R",
+    "project_path": "experiments/suitors_acceptors.R",
+    "type": "r_source",
+    "hash": "1198538876",
+    "contents": "",
+    "dirty": false,
+    "created": 1638095143283.0,
+    "source_on_save": false,
+    "relative_order": 10,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "20,43",
+        "scrollLine": "10"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1638219478,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1638219479004,
+    "read_only": false,
+    "read_only_alternatives": []
+}
